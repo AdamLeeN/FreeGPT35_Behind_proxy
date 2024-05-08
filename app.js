@@ -389,7 +389,7 @@ app.listen(port, async () => {
   console.log(`🔗 Local Endpoint: http://localhost:${port}/v1/chat/completions`);
   console.log();
   console.log("📝 Original TS Source By: Pawan.Krd");
-  console.log("📝 Modified By: Vincent");
+  console.log("📝 Modified By: AdamLee");
   console.log();
 
   setTimeout(async () => {
